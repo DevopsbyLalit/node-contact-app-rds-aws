@@ -237,8 +237,12 @@ out-put
 <img width="1874" height="916" alt="Screenshot 2025-12-10 165418" src="https://github.com/user-attachments/assets/aa638a2e-e20c-4873-a8aa-9b1a1bc5103f" />
 
 ```
+```
 
 ```
+
+```
+<img width="1683" height="191" alt="AWS" src="https://github.com/user-attachments/assets/5d7aa049-49c0-45de-839c-8a6d9291a6d2" />
 
 ## 👨‍💻 Author
 
