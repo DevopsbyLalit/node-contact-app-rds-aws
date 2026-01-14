@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(45deg, #ff9966, #ff5e62);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.box {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 0 10px #0002;
+}
+
+button {
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+}
