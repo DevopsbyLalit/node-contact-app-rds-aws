@@ -255,9 +255,7 @@ ELB => Elastic load balancer
 
 ```
 ASG => Auto Scalling Group
-
 <img width="1908" height="854" alt="aws-3" src="https://github.com/user-attachments/assets/efa417c7-0b72-4afe-8e0e-3aaf324af071" />
-
 ```
 ```
 ## 👨‍💻 Author
