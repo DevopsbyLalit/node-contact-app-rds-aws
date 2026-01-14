@@ -242,13 +242,23 @@ out-put
 ```
 
 ```
+EC2
+
 <img width="1683" height="191" alt="AWS" src="https://github.com/user-attachments/assets/5d7aa049-49c0-45de-839c-8a6d9291a6d2" />
 
 ```
 ```
+ELB => Elastic load balancer
+
 <img width="1903" height="901" alt="aws-2" src="https://github.com/user-attachments/assets/5f3344e1-953b-4502-aa74-148eb6a58f67" />
 ```
 
+```
+ASG => Auto Scalling Group
+
+<img width="1908" height="854" alt="aws-3" src="https://github.com/user-attachments/assets/efa417c7-0b72-4afe-8e0e-3aaf324af071" />
+
+```
 ```
 ## 👨‍💻 Author
 
